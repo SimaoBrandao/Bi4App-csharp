@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bi4App</id>
+    <version>1.0.0</version>
+    <authors>Simão Brandão</authors>
+    <owners>Simão Brandão</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Biblioteca .NET que interpreta e realiza a validação estrutural dos dados do QR Code do Bilhete de Identidade de Angola, fornecendo a informação em objetos estruturados e prontos para integração em aplicações .NET</description>
+    <copyright>Simão Brandão</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\net462\Bi4App.dll" target="lib\net462\Bi4App.dll" />
+    <file src="C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\net48\Bi4App.dll" target="lib\net48\Bi4App.dll" />
+    <file src="C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\netstandard2.0\Bi4App.dll" target="lib\netstandard2.0\Bi4App.dll" />
+  </files>
+</package>

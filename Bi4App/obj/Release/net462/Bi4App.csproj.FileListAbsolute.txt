@@ -1,0 +1,7 @@
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Release\net462\Bi4App.dll
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Release\net462\Bi4App.pdb
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Release\net462\Bi4App.csprojAssemblyReference.cache
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Release\net462\Bi4App.AssemblyInfoInputs.cache
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Release\net462\Bi4App.AssemblyInfo.cs
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Release\net462\Bi4App.dll
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Release\net462\Bi4App.pdb

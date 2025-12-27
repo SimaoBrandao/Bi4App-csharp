@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+  <!-- Multi-target -->
+  <TargetFrameworks>net462;net48;netstandard2.0</TargetFrameworks>
+
+  <!-- Biblioteca -->
+  <OutputType>Library</OutputType>
+  <AssemblyName>Bi4App</AssemblyName>
+  <RootNamespace>BiApp</RootNamespace>
+
+  <!-- Build -->
+  <Deterministic>true</Deterministic>
+  <LangVersion>latest</LangVersion>
+
+  <!-- Identidade do pacote -->
+  <Authors>Simão Brandão</Authors>
+  <Company>Simão Brandão</Company>
+  <Product>Bi4App</Product>
+
+  <!-- NuGet -->
+  <PackageId>Bi4App</PackageId>
+  <Version>1.0.1</Version>
+  <PackageVersion>1.0.1</PackageVersion>
+
+  <!-- Descrição -->
+  <Description>
+    Biblioteca .NET que interpreta e valida a estrutura dos dados do QR Code do Bilhete de Identidade de Angola, convertendo o conteúdo em objetos tipados e normalizados para integração em aplicações .NET.
+  </Description>
+
+  <!-- Licença (LGPLv3) -->
+  <PackageLicenseExpression>LGPL-3.0-only</PackageLicenseExpression>
+
+  <!-- Links oficiais -->
+  <PackageProjectUrl>https://github.com/SimaoBrandao/Bi4App-csharp</PackageProjectUrl>
+  <RepositoryUrl>https://github.com/SimaoBrandao/Bi4App-csharp.git</RepositoryUrl>
+  <RepositoryType>git</RepositoryType>
+
+  <!-- Exibir README no NuGet -->
+  <PackageReadmeFile>README.md</PackageReadmeFile>
+
+  <!-- Gerar pacote automaticamente -->
+  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+</PropertyGroup>
+</Project>
+
+

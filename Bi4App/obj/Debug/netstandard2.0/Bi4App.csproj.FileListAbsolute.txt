@@ -1,0 +1,8 @@
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\netstandard2.0\Bi4App.deps.json
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\netstandard2.0\Bi4App.dll
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\bin\Debug\netstandard2.0\Bi4App.pdb
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Debug\netstandard2.0\Bi4App.AssemblyInfoInputs.cache
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Debug\netstandard2.0\Bi4App.AssemblyInfo.cs
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Debug\netstandard2.0\Bi4App.dll
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Debug\netstandard2.0\Bi4App.pdb
+C:\Arquivos\Projetos\Bi4App\CSharp\Bi4App\Bi4App\obj\Debug\netstandard2.0\Bi4App.csprojAssemblyReference.cache
