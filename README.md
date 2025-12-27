@@ -258,19 +258,15 @@ A biblioteca é distribuída sob licença **LGPL-3.0**.
 
 Isso significa:
 
-✔ você pode usar em softwares proprietários
-✔ aplicações podem permanecer fechadas
-✔ desde que a biblioteca seja vinculada dinamicamente
-✔ modificações na biblioteca devem ser disponibilizadas sob LGPLv3
+* você pode usar em softwares proprietários
+* aplicações podem permanecer fechadas
+* desde que a biblioteca seja vinculada dinamicamente
+* modificações na biblioteca devem ser disponibilizadas sob LGPLv3
 
 📌 A biblioteca não pode ser fechada nem apropriada.
 
 Alterações na biblioteca precisam ser públicas
 quando distribuídas a terceiros.
-
-```
-LICENSE
-```
 
 ---
 
@@ -286,8 +282,8 @@ Abra uma issue ou pull request no repositório:
 
 ## 📬 Contato
 
-Autor: **Simão Brandão**
-Email: **[sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)**
-WhatsApp: **+244 948 49 38 28**
-GitHub: https://github.com/SimaoBrandao
-Linkedin: https://linkedin.com/in/SimaoBrandao
+**Autor:** Simão Brandão
+**Email:** [sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)
+**WhatsApp:** +244 948 49 38 28
+**GitHub:** https://github.com/SimaoBrandao
+**Linkedin:** https://linkedin.com/in/SimaoBrandao
