@@ -35,9 +35,9 @@ A Bi4App **não**:
 * consulta serviços externos
 * envia ou armazena dados
 
-✔ Processamento é **100% local**
-✔ Ideal para automação de cadastro e onboarding
-✘ Não substitui validação legal do documento
+* ✔ Processamento é **100% local**
+* ✔ Ideal para automação de cadastro e onboarding
+* ✘ Não substitui validação legal do documento
 
 ---
 
@@ -237,16 +237,15 @@ Não requer biblioteca adicional.
 ## 🔗 Demo Online
 
 Teste a demonstração:
+(Se a câmara estiver a falhar, feche e volte a abrir a aplicação da câmara e tente novamente)
 
 [https://bi4app-demo.vercel.app/](https://bi4app-demo.vercel.app/)
 
 ---
 
-## 🧪 Projetos de Demonstração
+## 🧪 Projeto de exemplo de implementação
 
-* Desktop (C#)
-
-Repositório:
+Repositórios:
 
 [https://github.com/SimaoBrandao/Bi4AppWinForms.git](https://github.com/SimaoBrandao/Bi4AppWinForms.git)
 
@@ -284,6 +283,6 @@ Abra uma issue ou pull request no repositório:
 
 *  **Autor:** Simão Brandão
 * **Email:** [sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)
-* **WhatsApp:** +244 948 49 38 28
+* **WhatsApp:** +244 948 493 828
 * **GitHub:** https://github.com/SimaoBrandao
 * **Linkedin:** https://linkedin.com/in/SimaoBrandao
