@@ -35,9 +35,9 @@ A Bi4App **não**:
 * consulta serviços externos
 * envia ou armazena dados
 
-* ✔ Processamento é **100% local**
-* ✔ Ideal para automação de cadastro e onboarding
-* ✘ Não substitui validação legal do documento
+✔ Processamento é **100% local**
+✔ Ideal para automação de cadastro e onboarding
+✘ Não substitui validação legal do documento
 
 ---
 
