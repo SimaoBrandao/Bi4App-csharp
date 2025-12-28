@@ -282,8 +282,8 @@ Abra uma issue ou pull request no repositório:
 
 ## 📬 Contato
 
-**Autor:** Simão Brandão
-**Email:** [sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)
-**WhatsApp:** +244 948 49 38 28
-**GitHub:** https://github.com/SimaoBrandao
-**Linkedin:** https://linkedin.com/in/SimaoBrandao
+*  **Autor:** Simão Brandão
+* **Email:** [sibrandao2008@gmail.com](mailto:sibrandao2008@gmail.com)
+* **WhatsApp:** +244 948 49 38 28
+* **GitHub:** https://github.com/SimaoBrandao
+* **Linkedin:** https://linkedin.com/in/SimaoBrandao
