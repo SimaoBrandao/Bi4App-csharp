@@ -189,11 +189,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Bi4App\\Bi4App\\Bi4App.csproj",
+      "projectUniqueName": "C:\\Arquivos\\Projetos\\Bi4App\\CSharp\\Bi4App\\Bi4App\\Bi4App.csproj",
       "projectName": "Bi4App",
-      "projectPath": "C:\\Bi4App\\Bi4App\\Bi4App.csproj",
+      "projectPath": "C:\\Arquivos\\Projetos\\Bi4App\\CSharp\\Bi4App\\Bi4App\\Bi4App.csproj",
       "packagesPath": "C:\\Users\\Brandão\\.nuget\\packages\\",
-      "outputPath": "C:\\Bi4App\\Bi4App\\obj\\",
+      "outputPath": "C:\\Arquivos\\Projetos\\Bi4App\\CSharp\\Bi4App\\Bi4App\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

@@ -8,9 +8,11 @@ using System.Linq;
 //
 // Autor: Simão Brandão
 // Email: sibrandao2008@gmail.com 
-// Telefone: +244 948 49 38 28 
-// Nuget: https://www.nuget.org/packages/Bi4App
-// Data: 09/01/2025 
+// Telemovel: +244 948 493 828 
+// Linkedin: https://linkedin.com/in/SimaoBrandao 
+// Nuget:  https://www.nuget.org/packages/Bi4App
+// Github: https://github.com/SimaoBrandao/Bi4App-csharp
+// Data: 09/01/2025  
 
 namespace BiApp
 {
